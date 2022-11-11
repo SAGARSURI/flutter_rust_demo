@@ -1,0 +1,1 @@
+{"rustc":17204927582409307511,"features":"","target":0,"profile":0,"path":0,"deps":[[5355623657581878764,"build_script_build",false,17285987059479656662]],"local":[{"RerunIfChanged":{"output":"aarch64-linux-android/release/build/parking_lot_core-d41cd5ba770babe7/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
