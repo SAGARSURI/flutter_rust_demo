@@ -1,0 +1,11 @@
+[package]
+name = "adder-ffi"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "adder_ffi"
+crate-type = ["dylib"]
+
+[dependencies]
+flutter_rust_bridge = "1"
